@@ -60,8 +60,8 @@ Cloud storage has become an integral part of modern computing, offering scalable
 
 - **Datasets:**
   - Use publicly available datasets that simulate cloud storage data, such as:
-    - **CIFAR-10/100:** Image datasets for classification tasks.
-    - **MNIST/Fashion-MNIST:** Handwritten digit/image datasets.
+    - **CIFAR-10/100:** Image datasets for classification tasks. https://www.kaggle.com/datasets/fedesoriano/cifar100
+    - **MNIST/Fashion-MNIST:** Handwritten digit/image datasets. https://www.kaggle.com/datasets/hojjatk/mnist-dataset
   - **Synthetic Data Generation:**
     - Create custom datasets to mimic user files in cloud storage.
 
