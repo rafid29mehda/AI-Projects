@@ -1,4 +1,4 @@
-### Introduction to Fault Diagnosis and Signal Processing (Explained for a Young Student)
+### Introduction to Fault Diagnosis and Signal Processing 
 
 Imagine you have a bike, and you want to make sure it always runs smoothly. Sometimes, you hear strange noises, or it feels like something isn’t working right. That’s where **fault diagnosis** comes in! It helps you figure out what's wrong with the bike before it gets worse.
 
